@@ -1,3 +1,8 @@
+Forked version of Raspberry Pi Kernel 3.x
+
+* Add support for Telit CE910-D cell module PID
+* Replaced logo .ppm with stock kernel version
+
         Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
